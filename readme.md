@@ -26,5 +26,6 @@ node index.js
 ```
 
 # Detalhes da Implementação
-encrypt(data): Utiliza AES-256-CBC para criptografar os dados passados como argumento.
-decrypt(data): Realiza a descriptografia dos dados previamente criptografados.
+- encrypt(data): Utiliza AES-256-CBC para criptografar os dados passados como argumento.
+
+- decrypt(data): Realiza a descriptografia dos dados previamente criptografados.
