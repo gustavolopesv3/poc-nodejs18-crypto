@@ -30,3 +30,5 @@ node index.js
 - encrypt(data): Utiliza AES-256-CBC para criptografar os dados passados como argumento.
 
 - decrypt(data): Realiza a descriptografia dos dados previamente criptografados.
+
+Documentação crypto (Node.js):  <https://nodejs.org/api/crypto.html>
